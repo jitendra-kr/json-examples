@@ -1,6 +1,6 @@
 # JSON example data
 
-This is a set of fake JSON files in different sizes that can be used as test data by the [JSON formatter](#https://www.fireboxtools.com/json-tools/json-formatter).
+This is a set of fake JSON files in different sizes that can be used as test data by the [JSON formatter](https://www.fireboxtools.com/json-tools/json-formatter).
 
 ## Already formatted JSON
 
